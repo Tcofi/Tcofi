@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Arina Zhuk
 ## I’m a programmer engineer physicist
 
-## Admin of @[ai_minds](https://t.me/ai_minds).
-
 ## 👨🏻‍💻 I’m currently working on
 - Optical fiber processing, detection
 - Quantum computing
