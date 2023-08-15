@@ -1,24 +1,27 @@
-# 👋 Hi, I’m Arina Zhuk
-## I’m a programmer engineer physicist
+# 👋 Привет, меня зовут Арина Жук. Я программист-инженер, инженер-физик
 
-## 👨🏻‍💻 I’m currently working on
-- Optical fiber processing, detection
-- Quantum computing
+## 👨🏻‍💻 В настоящее время я занимаюсь обработкой сигнала с оптического волокна
+## 🔬 я изучаю :
+- Квантовые вычисления
+- Оптические камеры дистанционного зондирования земли
+- Усиленные оптические линзы
+
+## 🏆 Достижения:
+- Победитель научной программы 20/21 "Дежурный по планете" в направлении «автоматическая идентификация объектов и искусственный интеллект»
+- Победитель в соревнования "Skolkovo junior challenge" в направлении промышленные технологии
+- Победитель олимпиады "ОММО" РСОШ (Объединённая межвузовская математическая олимпиада Российский совет олимпиад школьников)
+- Призер олимпиады "Физтех"
+- Призер всероссийского чемпионата "Цифровой прорыв", третье место из 168
 
 
-## 🏆 Achiviements:
-- 🥉 ["Digital breakthrough"](https://github.com/Tcofi/pochta-champ/) - Prediction of mail loss, antifraud (3rd of 168)
+## 📚 Курсы:
+- Математика и теорическая информатика. Сириус
+- Программирование на языке Python. Сириус
+- Квантовые измерения и вычисления. Сириус
+- StarML. Karpov Courses
+- Deep Learning School. МФТИ
 
-
-
-## 🐈 Pets:
-
-## 📚 Courses:
-- [Math & python for data analysis](https://coursera.org/share/490fe73eb42d75c6d735c55edee5c7e1) (by MIPT & Yandex)
-- [Introduction to ML](https://coursera.org/share/3985afe57384d757ac196aa05638e00b) (by HSE and Yandex)
-- [MTS.Teta Summer school](https://github.com/sir-timio/sir-timio/blob/main/diplomas/courses/mts_theta.pdf)
-- 
-## 🛠 Technical Skills
+## 🛠 Технические скиллы
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -32,7 +35,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-timio)](https://github.com/sir-timio/github-readme-stats) --->
 
 ### 🤝 How to reach me 
 
